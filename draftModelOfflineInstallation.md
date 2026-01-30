@@ -148,6 +148,10 @@ cd /root
 #### 3-2. ls -la /root/.modelsコマンドで.modelsディレクトリにモデル用ディレクトリが存在していることを確認します。
 
 ```shell
+ls -l /root/.models
+```
+
+```shell
 root@demo1-aio:~# ls -l /root/.models
 total 8
 drwxr-xr-x 3 root root 4096 Jan 30 16:19 krugle_KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M
@@ -225,7 +229,9 @@ shasta lsコマンドでモデルがインストールされていることを�
 
 ```shell
 shasta ls
+```
 
+```shell
 # 出力例:
 root@demo1-aio:~# shasta ls
 NAME                            ID              SIZE      MODIFIED
