@@ -1,0 +1,1 @@
+# krugle-code-llm-offline-installation
