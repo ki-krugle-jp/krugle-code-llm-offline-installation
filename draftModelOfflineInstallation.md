@@ -80,7 +80,7 @@ git clone https://<username>:<password>@huggingface.co/krugle/KrugleAI-text-embe
 
 ```shell
 # 実行例: 
-root@demo1-aio:~/.model# git clone https://krugleclient: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@huggingface.co/krugle/KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M krugle_KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M
+root@demo1-aio:~/.model# git clone https://<username>:<password>@huggingface.co/krugle/KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M krugle_KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M
 Cloning into 'krugle_KrugleAI-Code-35B-Chat-V1.0-GGUF.Q5_K_M'...
 remote: Enumerating objects: 149, done.
 remote: Total 149 (delta 0), reused 0 (delta 0), pack-reused 149 (from 1)
@@ -97,7 +97,7 @@ root@demo1-aio:~/.model#
 
 ```shell
 # 実行例: 
-root@demo1-aio:~/.model# git clone https://krugleclient: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@huggingface.co/krugle/KrugleAI-text-embedding-V1.0-GGUF.Q8_0 \
+root@demo1-aio:~/.model# git clone https://<username>:<password>@huggingface.co/krugle/KrugleAI-text-embedding-V1.0-GGUF.Q8_0 \
           krugle_KrugleAI-text-embedding-V1.0-GGUF.Q8_0
 Cloning into 'krugle_KrugleAI-text-embedding-V1.0-GGUF.Q8_0'...
 remote: Enumerating objects: 15, done.
